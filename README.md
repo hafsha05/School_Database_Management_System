@@ -1,7 +1,8 @@
 # 🎓 School Database Management System
 
--This project is a simple Student Management System built using Python (Tkinter GUI) as part of my internship at CADD Centre, Thanjavur.
--It allows users to add, view, and delete student records in a clean graphical interface.
+- This project is a simple Student Management System built using Python (Tkinter GUI) as part of my internship at CADD Centre, Thanjavur.
+
+- It allows users to add, view, and delete student records in a clean graphical interface.
 
 ## 🧠 Objective
 
