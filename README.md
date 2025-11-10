@@ -13,7 +13,7 @@
 - *Programming Language:* Python
 - *GUI Library:* Tkinter
 - *Widgets Used:* Label, Entry, Button, Treeview, Messagebox
-- *IDE:* Visual Studio Code
+- **IDE:** Visual Studio Code
 
 ## 🚀 Features
 - ✅ Add student details (Name, Age, Grade)
@@ -29,7 +29,7 @@
 - When all fields (Name, Age, Grade) are filled, the student record is added to the table.
 - A success message box appears:
 
- “All the fields are stored!”
+ >**“All the fields are stored!”**
 ### 2️⃣ Delete Student
 - Select a student from the list and click Delete Student.
 - If no student is selected, an error message box appears:
