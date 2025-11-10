@@ -10,9 +10,9 @@
 
 ## 🛠️ Tools and Technologies Used
 
-- *Programming Language:* Python
-- *GUI Library:* Tkinter
-- *Widgets Used:* Label, Entry, Button, Treeview, Messagebox
+- **Programming Language:** Python
+- **GUI Library:** Tkinter
+- **Widgets Used:** Label, Entry, Button, Treeview, Messagebox
 - **IDE:** Visual Studio Code
 
 ## 🚀 Features
@@ -42,4 +42,25 @@
 ### 3️⃣ Input Validation
 - If any field is empty when adding a student, an error message box is shown:
 
-“All the fields must be filled!”
+>**“All the fields must be filled!”**
+
+### 🖼️ Output Screenshots
+- 🔹 Main Interface
+- 🔹 Entering student Details
+- 🔹 Adding a Student
+- 🔹 Successfully adding Student
+- 🔹 Deleting a Student
+
+### 🏆 Internship Details
+- **Organization:** CADD Centre, Thanjavur
+- **Domain:** Python GUI Development (Tkinter)
+- **Duration:** December 2024
+- **Project Title:** School Database Management System
+
+### 💬 Output Summary
+#### The application successfully allows the user to:
+- Add student data and store it temporarily in a GUI table.
+- Delete any selected student with confirmation alerts.
+- Handle input validation effectively using message boxes.
+ 
+This project demonstrates fundamental GUI programming concepts in Python and serves as a beginner-level database management system prototype.
