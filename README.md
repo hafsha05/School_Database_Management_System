@@ -34,7 +34,7 @@
 - Select a student from the list and click Delete Student.
 - If no student is selected, an error message box appears:
 
-“Please select any student details!”
+>**“Please select any student details!”**
 
 - After successful deletion, a message box appears:
 
